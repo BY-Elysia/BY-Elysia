@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/agent-llm-banner.png" alt="Yang Bai — AI Agents and Large Language Models" width="100%" />
-</p>
-
 ### Hi, I’m Yang Bai 👋
 
 🎓 Incoming PhD student at the **School of Artificial Intelligence, Zhejiang University**, affiliated with **GIVE Lab**. Currently pursuing dual degrees in Intelligent Science and Technology and Mathematics and Applied Mathematics at **Chongqing University of Posts and Telecommunications**.
