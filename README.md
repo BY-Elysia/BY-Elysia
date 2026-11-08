@@ -2,7 +2,7 @@
 
 **AI Agents · Large Language Models · Multimodal AI**
 
-Incoming graduate student at the **School of Artificial Intelligence, Zhejiang University**, admitted through the recommendation-based admission pathway; affiliated with **GIVE Lab**.
+Incoming PhD student at the **School of Artificial Intelligence, Zhejiang University**, admitted directly to the doctoral program through the recommendation-based admission pathway; affiliated with **GIVE Lab**.
 
 I am currently pursuing dual degrees in **Intelligent Science and Technology** and **Mathematics and Applied Mathematics** at Chongqing University of Posts and Telecommunications.
 
@@ -40,7 +40,7 @@ I am interested in collaborating on agent runtimes and tool integration, LLM-pow
 
 ## 中文介绍
 
-我叫**白洋**，目前就读于**重庆邮电大学智能科学与技术、数学与应用数学双学位**，已**保研至浙江大学人工智能学院，隶属 GIVE Lab**。
+我叫**白洋**，目前就读于**重庆邮电大学智能科学与技术、数学与应用数学双学位**，已**保研直博至浙江大学人工智能学院，隶属 GIVE Lab**。
 
 我主要关注 **Agent 与 LLM**，希望围绕智能体系统、大模型应用、多模态学习和可复现评估开展**开源合作与学术交流**。
 
